@@ -1,8 +1,8 @@
 
 body {
-    background: #ECE9E6;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ECE9E6;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6);
 }
 h1 {
     font-family: Open Sans;
@@ -28,6 +28,14 @@ h3 {
     text-align: left;
 }
 
+h4 {
+    font-family: Open Sans;
+    font-weight: lighter;
+    font-size: 120px;
+    opacity: 1;
+    text-align: left;
+}
+
 
 .seven.wide.menu.column {
     padding-top: 300px;
@@ -42,13 +50,28 @@ h3 {
     padding-bottom: 11px;
 }
 
+.ui.borderless.topmenu.menu{
+    border: none;
+    box-shadow: none;
+    background: none;
+    padding-bottom: 5px;
+}
+
+.ui.stackable.centered.four.cards {
+    padding-top: 150px;
+}
+
+.image {
+    height: 260px;
+    width: 260px;
+}
 
 .typewriter {
     margin: 10px 0 0 10px;
     white-space: nowrap;
     overflow: hidden;
     width: 30em;
-    animation: type 0.8s steps(60, end);
+    animation: type 0.9s steps(60, end);
 }
 
 .typewriter:nth-child(2) {
