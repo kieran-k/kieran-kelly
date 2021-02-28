@@ -4,6 +4,8 @@ body {
     background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
     background: linear-gradient(to right, #FFFFFF, #ECE9E6);
 }
+
+
 h1 {
     font-family: Open Sans;
     font-weight: lighter;
@@ -36,6 +38,9 @@ h4 {
     text-align: left;
 }
 
+.resume {
+  font-family: "Open Sans";
+}
 
 .seven.wide.menu.column {
     padding-top: 300px;
