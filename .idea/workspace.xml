@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0e162e4c-619b-48e6-9b1f-a8c30f78ed1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hawaiianairmockup.html" beforeDir="false" afterPath="$PROJECT_DIR$/hawaiianairmockup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/newapp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitterbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/twitterbot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Kieran Kelly resume 2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,5 +52,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
